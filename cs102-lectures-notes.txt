@@ -1,0 +1,11 @@
+"GITHUB COMMANDS"
+  1. git clone: 
+        It helps to make local repository of the main branch repository in our local machines.
+  2. git push:
+        It reflects the changes we made in the local repository to the main branch repository.
+  3. git commit:
+        It permanently saves the changes in the local repository.
+  4. git status:
+        It tells us about the files needed to commit or needed to push to the main branch.
+  5. git add . :
+        It adds all the files in the github folder to the local repository which needed to be comitted.
