@@ -9,3 +9,14 @@
         It tells us about the files needed to commit or needed to push to the main branch.
   5. git add . :
         It adds all the files in the github folder to the local repository which needed to be comitted.
+--- Verification of working in home directory using pwd.
+--- Is public key or private key present in .ssh folder ?
+--- If yes then no issue otherwise use ssh-keygen -t RSA to add keys.
+--- Add ssh public key to github server.
+--- Clone the repository to our machine.
+--- Make files in local repository.
+--- Make changes in files.
+--- Commit the changes.
+--- Push the changes.
+--- Pull the chnages.
+
